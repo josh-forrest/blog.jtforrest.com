@@ -14,5 +14,5 @@ Here are some examples of formatting:
 ```javascript
 console.log('Hello World')
 ```
-## Photos:
+## Photos
 ![img-description](..\assets\img\test\waterfall.png)
