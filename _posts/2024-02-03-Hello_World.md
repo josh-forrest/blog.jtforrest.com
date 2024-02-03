@@ -10,6 +10,7 @@ Here are some examples of formatting:
 * one
 * two
 * three
+* four
 ```javascript
 console.log('Hello World')
 ```
